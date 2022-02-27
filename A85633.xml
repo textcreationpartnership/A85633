@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by Collonell Scroope against the Duke of Buckingham, at Saint Needs in Huntingtonshire. On Munday July the 10th. 1648. Where was slain Col. Dolbier, quartermaster Generall. 3 officers more. 8 troopers. Taken prisoners: Earl of Holland, 30 officers and gentlemen, 120 troopers. The Duke of Buckhingham fled with 200 horse. Taken besides. 200 horse, 150 fire armes, 100 great saddles. Powder some pounds. Silver, and gold and store of other good plunder. The Earle of Hollands blew ribbon and his George.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85633</idno>
+            <idno type="STC">Wing G1772</idno>
+            <idno type="STC">Thomason E452_15</idno>
+            <idno type="STC">ESTC R204860</idno>
+            <idno type="EEBO-CITATION">99864317</idno>
+            <idno type="PROQUEST">99864317</idno>
+            <idno type="VID">161962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161962)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by Collonell Scroope against the Duke of Buckingham, at Saint Needs in Huntingtonshire. On Munday July the 10th. 1648. Where was slain Col. Dolbier, quartermaster Generall. 3 officers more. 8 troopers. Taken prisoners: Earl of Holland, 30 officers and gentlemen, 120 troopers. The Duke of Buckhingham fled with 200 horse. Taken besides. 200 horse, 150 fire armes, 100 great saddles. Powder some pounds. Silver, and gold and store of other good plunder. The Earle of Hollands blew ribbon and his George.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the generall satisfaction of moderate men,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XL VIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161962:1" rendition="simple:additions"/>
+            <p>A Great VICTORY Obtained by COLLONELL SCROOPE</p>
+            <p>Againſt the Duke of BUCKINGHAM, at Saint <hi>Needs</hi> in <hi>Huntingtonſhire.</hi> On <hi>Munday</hi> July the 10th. 1648.</p>
+            <p>Where was ſlain
+<list>
+                  <item>
+                     <hi>Col.</hi> Dolbier, <hi>Quartermaſter Generall.</hi>
+                  </item>
+                  <item>3 <hi>Officers more.</hi>
+                  </item>
+                  <item>8 <hi>Troopers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Taken Priſoners:
+<list>
+                  <item>
+                     <hi>Earl of Holland,</hi>
+                  </item>
+                  <item>30 <hi>Officers and Gentlemen,</hi>
+                  </item>
+                  <item>120 <hi>Troopers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>The Duke of</hi> Buckhingham <hi>fled with</hi> 200 <hi>Horſe.</hi>
+            </p>
+            <p>Taken beſides.</p>
+            <list>
+               <item>200 <hi>Horſe,</hi>
+               </item>
+               <item>150 <hi>Fire Armes,</hi>
+               </item>
+               <item>100 <hi>Great Saddles.</hi>
+               </item>
+               <item>
+                  <hi>Powder ſome pounds.</hi>
+               </item>
+               <item>
+                  <hi>Silver, and gold and ſtore of other good plunder.</hi>
+               </item>
+               <item>
+                  <hi>The Earle of Hollands blew Ribbon and his George.</hi>
+               </item>
+            </list>
+            <p>LONDON, Printed for the generall ſatisfaction of moderate men. <hi>MDCXLVIII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:161962:2"/>
+            <pb n="1" facs="tcp:161962:2"/>
+            <head>THE Duke of BUCKINGHAMS <hi>ſpeech</hi> to the Magiſtrates of St. <hi>NEEDS.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E come not hither to carry any thing from you, but have given ſtrict or<g ref="char:EOLhyphen"/>der, that neither Officers nor Souldi<g ref="char:EOLhyphen"/>ers take what is yours away. Nor are our intentions to make a new warre, but to reſcue the Kingdom from the Arbitrary power of the Com<g ref="char:EOLhyphen"/>mittees of the ſeverall Counties that labour to con<g ref="char:EOLhyphen"/>tinue a bloody warre, to deſtroy you. Our reſolu<g ref="char:EOLhyphen"/>tion for peace is, by a well-ſetled Government un<g ref="char:EOLhyphen"/>der our Royall King <hi>Charles,</hi> and do bleſſe God that he hath made us inſtruments to ſerve the King the Parliament, and Kingdom, in the way of peace.</p>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:161962:3"/>
+            <head>A LETTER of the Gallant Victory obtained at S. Needs by Lieutenant Collonel Scroop, <hi>againſt the Duke of</hi> Buckingham, <hi>the Earl of</hi> Holland, <hi>the Lord of</hi> Pe<g ref="char:EOLhyphen"/>terborough, <hi>and between</hi> 4 <hi>and</hi> 500 <hi>horſe.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>WE have again given the Duke of <hi>Buck<g ref="char:EOLhyphen"/>ingham,</hi> the Earl of <hi>Holland,</hi> and the reſt, a notable bruſh.</p>
+            <p>Since we gave them the former defeat at <hi>Kingſtone,</hi> they marched towards St. <hi>Albands,</hi> and ſo by <hi>Dunſta<g ref="char:EOLhyphen"/>ble,</hi> and <hi>Breckhilts.</hi>
+            </p>
+            <p>It is ſuppoſed that they had a deſigne, to have gone towards <hi>Lincolnſhire,</hi> but the news of Coll. <hi>Roſsiters</hi> good ſucceſſe (as is ſuppoſed) hindred them.</p>
+            <p>They feared to draw nearer to <hi>Northamton,</hi> leaſt the Lord <hi>Grey</hi> ſhould way lay them from the Counties of <hi>Leiceſter, Nottingham,</hi> and <hi>Derby,</hi> as nimbly as his Lordſhip aſſiſted Col. <hi>Roſsiter.</hi>
+            </p>
+            <p>Sir <hi>Michael Liveſey</hi> took care to ſtop all places, to hinder their marching back into <hi>Kent.</hi>
+            </p>
+            <p>And Lieutenant Coll. <hi>Scroop,</hi> was ſent with ſeven Troops of Horſe to purſue them towards the Eaſtern aſſociation, leſt they ſhould attempt <hi>Lynne,</hi> or ſome o<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:161962:3"/>dangerous place, that if they did ſtop, he might fall upon them.</p>
+            <p>The Lords with the Cavaliers were in number, then, between 4 and 500 all horſe, but, as they went, left di<g ref="char:EOLhyphen"/>vers tired by the way.</p>
+            <p>Their cuſtom was, that when they came into freſh quarters, they would declare to thoſe Towns where they came, and make ſpeeches to court the Magiſtrats and Inhabitants (at which the Earle of <hi>Holland</hi> had a better faculty then at the ſword).</p>
+            <p>I have ſent you herewith the ſubſtance of one of the ſpeeches made to the Inhabitants of the Towne, by the Duke of <hi>Buckingham,</hi> The Earl of <hi>Holland,</hi> and the Earl of <hi>Peterborough</hi> did the like.</p>
+            <p>But by that time they came hither, the Earl of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> was ſo weary, and ſhaken in his joynts, that hee had a better will to his bed than his horſe, eſpecially not knowing the end of his diſtracted journey.</p>
+            <p>And yet for all their ſpeeches and Declarations, their manner was, upon removing of quarters (till when all was pretty faire) to leave their Carriages and meaneſt Souldiers to follow, and they both plun<g ref="char:EOLhyphen"/>dred horſes, and pillaged houſes, and did much harm, whereby they loſt the affections of the Country very much, ſo that they were ready to give any reaſonable aſſiſtance to our men that purſued them.</p>
+            <p>And the Earl of <hi>Hollands</hi> Innes were pretty well known, whereby they were the better traſed.</p>
+            <p>On the Lords day (at night) they took up their quar<g ref="char:EOLhyphen"/>ters in this place, but with a great deal of fear.</p>
+            <p>A councell of warre was called that night, by the Lords and Officers, at which they had ſome debates
+<pb n="4" facs="tcp:161962:4"/>which way to march the next morning.</p>
+            <p>Quarter-maſter Generall <hi>Dolbier</hi> (who was an old Officer of the late Lord Generall the Earl of <hi>Eſſex,</hi>) had joyned with them, and was eſteemed an eminent Officer among them, to whoſe advice they much ad<g ref="char:EOLhyphen"/>hered.</p>
+            <p>And he ingaged to make good this Town of S. <hi>Needs,</hi> againſt any party that ſhould pur<g ref="char:EOLhyphen"/>ſue them, and that he would engage his life, which he would looſe rather then ſee them ſurprized there that night.</p>
+            <p>
+               <hi>Dolbier</hi> watched (and drunk Sack ſtiffely) that night, and all was quiet.</p>
+            <p>But a little before Sun-riſing, this morning then came an alarum to this Town, which made the Cavaliers cry, all to <hi>Horſe, Horſe,</hi> The Lords, and chief Officers being moſt of them then in bed.</p>
+            <p>The Duke of <hi>Buckingham</hi> was not long be<g ref="char:EOLhyphen"/>fore he was up, dreſt, and mounted, and ſo o<g ref="char:EOLhyphen"/>thers. But the Earl of <hi>Holland</hi> took more De<g ref="char:EOLhyphen"/>liberation to dreſſe him.</p>
+            <p>About Sun-riſing Lieut. Col. <hi>Scroop</hi> came up to the Towns end, where he found ſome oppoſition, but both he and the reſt of the Officers and Souldiers were very reſolved.</p>
+            <pb n="5" facs="tcp:161962:4"/>
+            <p>
+               <hi>Dolbier</hi> made ſome oppoſition, but in the charge was ſlain with ſome twelve more, and then they all began to retreat, and fled ſome one way, ſome another, the Duke went with nigh 200 towards <hi>Huntington,</hi> whether Lieu<g ref="char:EOLhyphen"/>tenant Coll. <hi>Scroop,</hi> is purſuing them. We have taken here almoſt 200 Horſe, and nigh 150 priſoners, amongſt whom the Earle of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> who was got out of his bed, but had not quite dreſſed him, to whom quarter was gi<g ref="char:EOLhyphen"/>ven, that he may turn round once again.</p>
+         </div>
+         <div type="list">
+            <head>A Liſt of the Particulars of the great victory obtained by Coll. <hi>Scroope</hi> againſt the Duke of <hi>Buckingham</hi> at St. <hi>Needs</hi> in Huntington ſhire, on Mun<g ref="char:EOLhyphen"/>day July <hi>10. 1648.</hi>
+            </head>
+            <list>
+               <label>Slaine.</label>
+               <item>
+                  <list>
+                     <item>Coll. <hi>Dolbier,</hi> Quarter-Maſter Generall.</item>
+                     <item>3 Officers more.</item>
+                     <item>8 Troopers.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Taken Priſoners.</label>
+               <item>
+                  <list>
+                     <item>Earle of <hi>Holland.</hi>
+                     </item>
+                     <item>30 Officers and Gent.</item>
+                     <item>120 Troopers.</item>
+                     <item>The Duke of <hi>Buckingham</hi> fled with 200 Horſe.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Taken beſides.</label>
+               <item>
+                  <list>
+                     <item>200 Horſe.</item>
+                     <item>150 fire Armes</item>
+                     <item>100 great Saddles.</item>
+                     <item>Powder ſome pounds.</item>
+                     <item>Silver and gold and ſtore of other good plunder.</item>
+                     <item>The Earl of <hi>Hollands</hi> blew</item>
+                     <item>Ribbon and his George.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:161962:5"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a man</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
